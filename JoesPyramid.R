@@ -1,13 +1,3 @@
-# 1.1
-
-# Calculate number of permutations for layer 6
-n = 99
-r = 6
-
-permutations <- factorial(n) / factorial(n - r)
-
-# 1.2
-
 # Function to calculate the stone values in the pyramid
 checkPyramid <- function(layer_6) {
   # Record the values for each layer
