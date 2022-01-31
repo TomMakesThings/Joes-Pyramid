@@ -6,3 +6,4 @@ Joe’s pyramid is a puzzle in which very stone is marked with a different one o
 <img src="https://github.com/TomMakesThings/Joes-Pyramid/blob/assets/Images/Pyramid-Letters.png" width=450>
 
 <img src="https://github.com/TomMakesThings/Joes-Pyramid/blob/assets/Images/Pyramid-Solved.png" width=450>
+<img src="https://github.com/TomMakesThings/Joes-Pyramid/blob/assets/Images/Pyramid-Solved-2.png" width=450>
