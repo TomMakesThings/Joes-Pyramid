@@ -3,7 +3,7 @@
 ## The Problem
 Joe’s pyramid is a puzzle in which very stone is marked with a different one or two digit positive number. Where a stone rests on two others, its number is the sum of the numbers marked on the two stones on which it rests. The challenge is to find the value of the top stone **X**. Assuming zero may not be used, this gives 99 possible values for each stone. For the lowest level alone, using the permutations formula gives 806 billion possible permutations. Therefore it is intractable to solve the problem through brute force.
 
-<img src="https://github.com/TomMakesThings/Joes-Pyramid/blob/assets/Images/Joes-Pyramid.png" width=450>
+<img src="https://github.com/TomMakesThings/Joes-Pyramid/blob/assets/Images/Joes-Pyramid.png" width=550>
 
 ## Solving the Puzzle
 ### Constraints
@@ -11,7 +11,7 @@ The first step is to mark each stone on the lowest level with a, b, c, d, e, f. 
 
 **X** = a + 5b + 10c + 10d + 5e + f
 
-<img src="https://github.com/TomMakesThings/Joes-Pyramid/blob/assets/Images/Pyramid-Letters.png" width=450>
+<img src="https://github.com/TomMakesThings/Joes-Pyramid/blob/assets/Images/Pyramid-Letters.png" width=550>
 
 As each stone can have a maximum of two digit, **X** cannot exceed 99.
 
@@ -55,5 +55,5 @@ To find the solutions, I created an R script [JoesPyramid.R](https://github.com/
 ## Solution
 There are two arrangements of the stones that satisfy all the constraints. In both cases, the pyramid is symmetrical and **X** = 98.
 
-<img src="https://github.com/TomMakesThings/Joes-Pyramid/blob/assets/Images/Pyramid-Solved.png" width=450>
-<img src="https://github.com/TomMakesThings/Joes-Pyramid/blob/assets/Images/Pyramid-Solved-2.png" width=450>
+<img src="https://github.com/TomMakesThings/Joes-Pyramid/blob/assets/Images/Pyramid-Solved.png" width=550>
+<img src="https://github.com/TomMakesThings/Joes-Pyramid/blob/assets/Images/Pyramid-Solved-2.png" width=550>
