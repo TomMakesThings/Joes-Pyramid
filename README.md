@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Joe's Pyramid</h1>
+  <h1>▲ Joe's Pyramid ▲</h1>
   <p><b>Code by <a href="https://github.com/TomMakesThings">TomMakesThings</a></b></p>
   <p><b><sub>October 2021</sub></b></p>
 </div>
