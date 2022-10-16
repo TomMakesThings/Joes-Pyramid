@@ -1,4 +1,10 @@
-# Joe's Pyramid
+<div align="center">
+  <h1>Joe's Pyramid</h1>
+  <p><b>Code by <a href="https://github.com/TomMakesThings">TomMakesThings</a></b></p>
+  <p><b><sub>October 2021</sub></b></p>
+</div>
+
+---
 
 ## The Problem
 Joe’s pyramid is a puzzle in which very stone is marked with a different one or two digit positive number. Where a stone rests on two others, its number is the sum of the numbers marked on the two stones on which it rests. The challenge is to find the value of the top stone **X**. Assuming zero may not be used, this gives 99 possible values for each stone. For the lowest level alone, using the permutations formula gives 806 billion possible permutations. Therefore it is intractable to solve the problem through brute force.
